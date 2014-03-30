@@ -4,7 +4,8 @@
   "description": "minimum chat with Node.js",
   "main": "server.js",
   "dependencies": {
-    "socket.io": "~0.9.16"
+    "socket.io": "~0.9.16",
+    "validator": "~3.5.1"
   },
   "devDependencies": {},
   "scripts": {
